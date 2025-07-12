@@ -12,3 +12,4 @@ StackIt is a clean, minimal, and user-focused Q&A platform designed to simplify 
   - Nikhil R  
   - Harshil V  
 - **Email**: Zeal R – zealraval112@gmail.com
+- **Email**: Nikhil R – nikhilrakhashiya@gmail.com
