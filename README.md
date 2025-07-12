@@ -27,7 +27,7 @@ StackIt is a clean, minimal, and user-focused Q&A platform designed to simplify 
 
 ---
 
-## 📁 Folder Structure
+## 📁 Team Member
 
 
 | Name      | Role      | Email                                                           |
