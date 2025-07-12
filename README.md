@@ -6,8 +6,7 @@ StackIt is a clean, minimal, and user-focused Q&A platform designed to simplify 
 ---
 
 ## 👥 Team
-
-- **Team Name**: Team Z  
+ 
 - **Team Members**:  
   - Zeal R  
   - Nikhil R  
