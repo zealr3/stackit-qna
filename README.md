@@ -5,11 +5,3 @@ StackIt is a clean, minimal, and user-focused Q&A platform designed to simplify 
 
 ---
 
-## 👥 Team
- 
-- **Team Members**:  
-  - Zeal R  
-  - Nikhil R  
-  - Harshil V  
-- **Email**: Zeal R – zealraval112@gmail.com
-- **Email**: Nikhil R – nikhilrakhashiya@gmail.com
